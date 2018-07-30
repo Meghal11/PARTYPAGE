@@ -1245,7 +1245,7 @@ h1,h2,h3,h4,h5,h6{
     }
 }
 .main6{
-    background-image: url("https://static.pexels.com/photos/355465/pexels-photo-355465.jpeg");
+    background: black;
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
